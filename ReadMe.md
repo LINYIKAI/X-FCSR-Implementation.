@@ -20,7 +20,7 @@ This is an implementation of the F-FCSR stream cipher	with c++;
 * Permission is granted to anyone to use this software for any purpose,
 * including commercial applications, and to alter it and redistribute it
 * freely, subject to no restriction.
-any question please contract with <1223576474@qq.com>
+any question please contract with <linyikaihere@gmail.com>
 
 > **Note:**
 
